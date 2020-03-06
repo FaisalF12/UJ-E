@@ -1,0 +1,62 @@
+body{
+    background-image: linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);
+    background-repeat:no-repeat;
+    height: 100%;
+    color:white;
+}
+input[type="text"]
+{
+    display: block;
+}
+input[type="password"]
+{
+    display: block;
+}
+.box{
+    background-color: white;
+    width: 50%;
+    margin: 1000px 0 0 500px;
+}
+span{
+    text-transform: capitalize;
+}
+
+h1{
+    font-size: 20px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+input[type="text"]
+,input[type="password"]
+{
+    border:0px;
+    background-color: transparent;
+    border-bottom: 1px solid white;
+    width: 17%;
+    color:white;
+}
+::placeholder {
+    color: white;
+  }
+.move
+{
+    margin:-21px 0px 36px 150px !important;
+    display: block !important;
+}
+.for{
+    margin: -53px 44px 13px 100px;
+    display: block;
+}
+label{
+
+    display: block;
+}
+.sign{
+    margin: -20px 0px 30px 221px;
+    display: block;
+    color: red;
+}
+p{
+    margin: -25px 0px 0px 148px;
+    display: block;
+}
